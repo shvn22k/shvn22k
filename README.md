@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/k_shvn" target="blank"><img src="https://img.shields.io/twitter/follow/k_shvn?logo=twitter&style=for-the-badge" alt="k_shvn" /></a> </p>
 
-- 🌱 I’m currently learning **machine learning and neural networks**
+- 🌱 I’m currently learning **python and data science**
 
 - 📫 How to reach me **shivenkumar22@gmail.com**
 
