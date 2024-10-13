@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ I'm a passionate AIML enthusiast<br>📚 I'm currently learning Data science and Machine learning<br>🎲 Fun fact: Humans suck at photosynthesis.</p>
+<p align="left">✨ I'm a passionate AIML enthusiast<br>📚 I'm currently learning Deep learning<br>🎲 Fun fact: Humans suck at photosynthesis.</p>
 
 ###
 
