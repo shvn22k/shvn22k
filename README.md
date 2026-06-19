@@ -1,26 +1,21 @@
-
-
 <br clear="both">
+<h1 align="left">Hey, I'm Shiven 👋</h1>
 
-<h1 align="left">Hey there!👋</h1>
+<p align="left">Final year CS (AI & ML) undergrad from India. I build AI systems — RAG pipelines, computer vision tools, agentic AI apps. Most of my work lives at the intersection of ML and real-world usability.</p>
 
-###
+<h2 align="left">What I'm into</h2>
 
-<p align="left">My name is Shiven and I'm a B.Tech undergrad, from India.</p>
+<p align="left">
+😺 Building GenAI systems — RAG, agentic workflows, LLM-powered apps<br>
+👀 Computer vision — YOLO, MediaPipe, real-time inference pipelines<br>
+🧠 Long-term interest in cognitive science and human-AI interaction<br>
+👌 Fun fact: I dont like AI generated media :p
+</p>
 
-###
+<h2 align="left">Tech stack</h2>
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ I'm a passionate AIML enthusiast<br>📚 I'm currently learning Deep learning (NLP).<br>🎲 Fun fact: Humans suck at photosynthesis.</p>
-
-###
-
-<h2 align="left">Tech stacks</h2>
-
-###
+<div align="left">
+  <!-- keep all your existing icon img tags here, unchanged -->
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -50,20 +45,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-</div>
 
-###
+</div>
 
 <br clear="both">
-
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shvn22k&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shvn22k&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/564x/bf/ef/83/bfef831a849828f796781f588ff802d6.jpg"  />
-</div>
-
-###
